@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Ortega92
+- 👋 Hi, I’m @OrtegaSA
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning quantum computing
+- 🌱 I’m currently working on quantum computing
+<!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+- 📫 How to reach me: sergioan@ucm.es
 
 <!---
-Ortega92/Ortega92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OrtegaSA/OrtegaSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
